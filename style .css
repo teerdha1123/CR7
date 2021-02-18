@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+.nider{  background-color:#301020;
+    display:flex;
+    justify-content: flex-end
+}
+.header{
+    background-color:#103050;
+    display:flex;
+    justify-content: space-between
+}
+.slider{
+    background-color: #203040;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: first baseline
+}
+.hider{
+    background-color: #203010;
+    display:flex ;
+ flex-wrap: wrap;
+    justify-content: space-evenly
+}
+p,h2{text-align: center;}
+body{background-color:#6ecc15;}
